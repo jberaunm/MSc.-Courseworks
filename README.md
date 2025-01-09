@@ -2,4 +2,4 @@
 
 Modules taken in the program:
 
-QDA: Quantitative Data AnalysiS
+QDA: Quantitative Data Analysis
