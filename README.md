@@ -1,4 +1,4 @@
-# Main repository for coursework of my MSc Data Science degree
+# Main repository for labs and courseworks of my MSc Data Science degree
 
 Modules taken in the program:
 
