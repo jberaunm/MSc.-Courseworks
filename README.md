@@ -1,4 +1,4 @@
-# Main repository for labs and courseworks of my MSc Data Science degree
+# Main repository for labs and courseworks of my MSc. Data Science and Analytics at Brunel University of London
 
 Modules taken in the program:
 
