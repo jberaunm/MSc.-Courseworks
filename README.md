@@ -1,6 +1,6 @@
 # Main repository for labs and courseworks of my MSc. Data Science and Analytics at Brunel University of London
 
-Modules taken in the program:
+Modules taken/audited during the program:
 
 QDA: Quantitative Data Analysis
 
